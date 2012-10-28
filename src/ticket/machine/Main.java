@@ -1,3 +1,11 @@
+/*
+Integrantes:
+
+Mauricio Pousada	30901911
+Murilo Mello		30925551
+Thiago Borghi		30922763
+
+*/
 package ticket.machine;
 
 import java.util.Scanner;
